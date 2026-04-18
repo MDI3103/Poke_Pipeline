@@ -1,0 +1,11 @@
+# Secrets and config
+.env
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
